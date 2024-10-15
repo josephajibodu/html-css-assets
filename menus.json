@@ -1,0 +1,2318 @@
+[
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Assorted/kpomo/Smoked fish)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Assorted/kpomo/Smoked fish)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Assorted/kpomo/Smoked fish)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Assorted/kpomo/Smoked fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Cowleg/Smoked titus Fish/Beef Assorted)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Cowleg/Smoked titus Fish/Beef Assorted)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Cowleg/Smoked titus Fish/Beef Assorted)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Cowleg/Smoked titus Fish/Beef Assorted)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (goatmeat/Cowleg/Smoked titus Fish/Beef Assorted)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (goatmeat/Assorted/Smoked fish/kpomo)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (goatmeat/Assorted/Smoked fish/kpomo)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (goatmeat/Assorted/Smoked fish/kpomo)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (goatmeat/Assorted/Smoked fish/kpomo)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (goatmeat/Assorted/Smoked fish/kpomo)",
+    "Size": "10L",
+    "Price": 130000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (just goat meat and Dry fish)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (just goat meat and Dry fish)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (just goat meat and Dry fish)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (just goat meat and Dry fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Afang Soup (just goat meat and Dry fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Banga Soup (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Banga Soup (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Banga Soup (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Banga Soup (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "7.5L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Banga Soup (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Egusi (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Egusi (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Egusi (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Egusi (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "7.5L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Egusi (Prawns/Snail/Crabs/Calamari/Fish)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Fisherman Soup (Calamari/Prawns/Snail/Crabs/Fish)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Fisherman Soup (Calamari/Prawns/Snail/Crabs/Fish)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Fisherman Soup (Calamari/Prawns/Snail/Crabs/Fish)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Fisherman Soup (Calamari/Prawns/Snail/Crabs/Fish)",
+    "Size": "7.5L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Fisherman Soup (Calamari/Prawns/Snail/Crabs/Fish)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": "4L",
+    "Price": 80000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": 7.5,
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Seafood Okra (Prawns/Snail/Crab/Fish/Calamari)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (Just goat meat | Smoked titus)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (Just goat meat | Smoked titus)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (Just goat meat | Smoked titus)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (Just goat meat | Smoked titus)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Oha Soup (Just goat meat | Smoked titus)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ito Piro (Fried three fish | Assorted | Kpomo)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ito Piro (Fried three fish | Assorted | Kpomo)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ito Piro (Fried three fish | Assorted | Kpomo)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ito Piro (Fried three fish | Assorted | Kpomo)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ito Piro (Fried three fish | Assorted | Kpomo)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (goat meat | Assorted | Smoked titus fish)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (goat meat | Assorted | Smoked titus fish)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (goat meat | Assorted | Smoked titus fish)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (goat meat | Assorted | Smoked titus fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (goat meat | Assorted | Smoked titus fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (Life Chicken | goat meat | Smoked)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (Life Chicken | goat meat | Smoked)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (Life Chicken | goat meat | Smoked)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (Life Chicken | goat meat | Smoked)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofensala Soup (Life Chicken | goat meat | Smoked)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (Assorted | pomo | goat meat | fish)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (Assorted | pomo | goat meat | fish)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (Assorted | pomo | goat meat | fish)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (Assorted | pomo | goat meat | fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (Assorted | pomo | goat meat | fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (goat meat | Assorted | Cowleg | Beef)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (goat meat | Assorted | Cowleg | Beef)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (goat meat | Assorted | Cowleg | Beef)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (goat meat | Assorted | Cowleg | Beef)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Edikaikong Soup (goat meat | Assorted | Cowleg | Beef)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Assorted | goat meat | Kpomo | Smoked titus fish)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Assorted | goat meat | Kpomo | Smoked titus fish)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Assorted | goat meat | Kpomo | Smoked titus fish)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Assorted | goat meat | Kpomo | Smoked titus fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Assorted | goat meat | Kpomo | Smoked titus fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Cowleg | goat meat | Dry fish | Assorted)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Cowleg | goat meat | Dry fish | Assorted)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Cowleg | goat meat | Dry fish | Assorted)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Cowleg | goat meat | Dry fish | Assorted)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ogbono Soup (Cowleg | goat meat | Dry fish | Assorted)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Assorted | goat meat | Kpomo | Smoked fish)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Assorted | goat meat | Kpomo | Smoked fish)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Assorted | goat meat | Kpomo | Smoked fish)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Assorted | goat meat | Kpomo | Smoked fish)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Assorted | goat meat | Kpomo | Smoked fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Cowleg | goat meat | Dry Fish)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Cowleg | goat meat | Dry Fish)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Cowleg | goat meat | Dry Fish)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Cowleg | goat meat | Dry Fish)",
+    "Size": "7L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Egusi Soup (Cowleg | goat meat | Dry Fish)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu (goat meat | Assorted | Smoked fish | Kpomo)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu (goat meat | Assorted | Smoked fish | Kpomo)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu (goat meat | Assorted | Smoked fish | Kpomo)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu (goat meat | Assorted | Smoked fish | Kpomo)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu (goat meat | Assorted | Smoked fish | Kpomo)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu Mixed (Snail | prawns | goat meat | Smoked fish)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu Mixed (Snail | prawns | goat meat | Smoked fish)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu Mixed (Snail | prawns | goat meat | Smoked fish)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu Mixed (Snail | prawns | goat meat | Smoked fish)",
+    "Size": "7.5L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Ofe Akwu Mixed (Snail | prawns | goat meat | Smoked fish)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup (Assorted | Beef | Smoked fish | Goat meat)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup (Assorted | Beef | Smoked fish | Goat meat)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup (Assorted | Beef | Smoked fish | Goat meat)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup (Assorted | Beef | Smoked fish | Goat meat)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup (Assorted | Beef | Smoked fish | Goat meat)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup Mixed (Prawns | Snail | Smoked fish | Beef | Assorted)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup Mixed (Prawns | Snail | Smoked fish | Beef | Assorted)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup Mixed (Prawns | Snail | Smoked fish | Beef | Assorted)",
+    "Size": "5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup Mixed (Prawns | Snail | Smoked fish | Beef | Assorted)",
+    "Size": "7.5L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Okra Soup Mixed (Prawns | Snail | Smoked fish | Beef | Assorted)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Cat fish Banga Soup",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Cat fish Banga Soup",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Cat fish Banga Soup",
+    "Size": "5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Cat fish Banga Soup",
+    "Size": "7.5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Cat fish Banga Soup",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Vegetable Soup (Assorted | goat | fish | Kpomo)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Vegetable Soup (Assorted | goat | fish | Kpomo)",
+    "Size": "3.5L",
+    "Price": ""
+  },
+  {
+    "Category": "Soup",
+    "Item": "Vegetable Soup (Assorted | goat | fish | Kpomo)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Vegetable Soup (Assorted | goat | fish | Kpomo)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Vegetable Soup (Assorted | goat | fish | Kpomo)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Dry fish Banga Soup",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Dry fish Banga Soup",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Dry fish Banga Soup",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Dry fish Banga Soup",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Dry fish Banga Soup",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Life Chicken and Assorted)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Life Chicken and Assorted)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Life Chicken and Assorted)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Life Chicken and Assorted)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Life Chicken and Assorted)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Assorted | goat meat | Kpomo)",
+    "Size": "2.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Assorted | goat meat | Kpomo)",
+    "Size": "3.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Assorted | goat meat | Kpomo)",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Assorted | goat meat | Kpomo)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Banga Soup (Assorted | goat meat | Kpomo)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Dry fish | Kpomo)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Dry fish | Kpomo)",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Dry fish | Kpomo)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Dry fish | Kpomo)",
+    "Size": "7.5L",
+    "Price": 88000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Dry fish | Kpomo)",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Soup",
+    "Item": "Bitter Leaf Soup (goat meat | Assorted | Beef | Cowleg)",
+    "Size": "(Prices not provided in the image)",
+    "Price": ""
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried titus fish Stew",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried titus fish Stew",
+    "Size": "3.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried titus fish Stew",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried titus fish Stew",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried titus fish Stew",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried HAKE fish Stew",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried HAKE fish Stew",
+    "Size": "3.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried HAKE fish Stew",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried HAKE fish Stew",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried HAKE fish Stew",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Frozen Chicken Stew",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Frozen Chicken Stew",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Frozen Chicken Stew",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Frozen Chicken Stew",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Frozen Chicken Stew",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Life Chicken Stew",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Life Chicken Stew",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Life Chicken Stew",
+    "Size": "5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Life Chicken Stew",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Life Chicken Stew",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey Stew",
+    "Size": "2.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey Stew",
+    "Size": "3.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey Stew",
+    "Size": "5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey Stew",
+    "Size": "7.5L",
+    "Price": 98000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey Stew",
+    "Size": "10L",
+    "Price": 160000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey and titus fish Stew",
+    "Size": "2.5L",
+    "Price": 63000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey and titus fish Stew",
+    "Size": "3.5L",
+    "Price": 73000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey and titus fish Stew",
+    "Size": "5L",
+    "Price": 83000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey and titus fish Stew",
+    "Size": "7.5L",
+    "Price": 93000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fried turkey and titus fish Stew",
+    "Size": "10L",
+    "Price": 160000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Ofada Sauce (Assorted Beef egg)",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Ofada Sauce (Assorted Beef egg)",
+    "Size": "3.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Ofada Sauce (Assorted Beef egg)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Ofada Sauce (Assorted Beef egg)",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Ofada Sauce (Assorted Beef egg)",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fish Sauce",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fish Sauce",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fish Sauce",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fish Sauce",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Fish Sauce",
+    "Size": "10L",
+    "Price": 110000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Beef Stew",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Beef Stew",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Beef Stew",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Beef Stew",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Beef Stew",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Goat meat Stew",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Goat meat Stew",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Goat meat Stew",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Goat meat Stew",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Goat meat Stew",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowfoot and Assorted Stew",
+    "Size": "2.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowfoot and Assorted Stew",
+    "Size": "3.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowfoot and Assorted Stew",
+    "Size": "5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowfoot and Assorted Stew",
+    "Size": "7.5L",
+    "Price": 90000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowfoot and Assorted Stew",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowleg (Assorted) Stew",
+    "Size": "2.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowleg (Assorted) Stew",
+    "Size": "3.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowleg (Assorted) Stew",
+    "Size": "5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowleg (Assorted) Stew",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Cowleg (Assorted) Stew",
+    "Size": "10L",
+    "Price": 160000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken Stew",
+    "Size": "2.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken Stew",
+    "Size": "3.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken Stew",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken Stew",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken Stew",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken wing / Cowleg Stew",
+    "Size": "2.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken wing / Cowleg Stew",
+    "Size": "3.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken wing / Cowleg Stew",
+    "Size": "5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken wing / Cowleg Stew",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Chicken wing / Cowleg Stew",
+    "Size": "10L",
+    "Price": 160000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Oil Stew (Assorted fried Beef fried titus fish egg ponmo)",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Oil Stew (Assorted fried Beef fried titus fish egg ponmo)",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Oil Stew (Assorted fried Beef fried titus fish egg ponmo)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Oil Stew (Assorted fried Beef fried titus fish egg ponmo)",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Oil Stew (Assorted fried Beef fried titus fish egg ponmo)",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Local native Stew (Dry Round fish Assorted Beef egg Cowleg)",
+    "Size": "2.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Local native Stew (Dry Round fish Assorted Beef egg Cowleg)",
+    "Size": "3.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Local native Stew (Dry Round fish Assorted Beef egg Cowleg)",
+    "Size": "5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Local native Stew (Dry Round fish Assorted Beef egg Cowleg)",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Stew and Sauce",
+    "Item": "Local native Stew (Dry Round fish Assorted Beef egg Cowleg)",
+    "Size": "10L",
+    "Price": 150000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Party Jollof Rice with Diced Beef",
+    "Size": "2.5L",
+    "Price": 30000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Party Jollof Rice with Diced Beef",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Party Jollof Rice with Diced Beef",
+    "Size": "5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Party Jollof Rice with Diced Beef",
+    "Size": "7.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Party Jollof Rice with Diced Beef",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof Rice with Diced Beef",
+    "Size": "2.5L",
+    "Price": 38000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof Rice with Diced Beef",
+    "Size": "3.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof Rice with Diced Beef",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof Rice with Diced Beef",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof Rice with Diced Beef",
+    "Size": "10L",
+    "Price": 110000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Native Rice (prawns snail fried Hake fish egg diced Assorted)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Native Rice (prawns snail fried Hake fish egg diced Assorted)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Native Rice (prawns snail fried Hake fish egg diced Assorted)",
+    "Size": "5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Native Rice (prawns snail fried Hake fish egg diced Assorted)",
+    "Size": "7.5L",
+    "Price": 98000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Native Rice (prawns snail fried Hake fish egg diced Assorted)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Rice (prawns Snail fried fish Diced Beef Calamari)",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Rice (prawns Snail fried fish Diced Beef Calamari)",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Rice (prawns Snail fried fish Diced Beef Calamari)",
+    "Size": "5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Rice (prawns Snail fried fish Diced Beef Calamari)",
+    "Size": "7.5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Seafood Rice (prawns Snail fried fish Diced Beef Calamari)",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Diced goat Meat / Fish)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Diced goat Meat / Fish)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Diced goat Meat / Fish)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Diced goat Meat / Fish)",
+    "Size": "7.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Diced goat Meat / Fish)",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Basmati Rice)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Basmati Rice)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Basmati Rice)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Basmati Rice)",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Special Coconut Rice (Basmati Rice)",
+    "Size": "10L",
+    "Price": 135000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Native Rice (Basmati Rice) (Diced Assorted fish egg)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Native Rice (Basmati Rice) (Diced Assorted fish egg)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Native Rice (Basmati Rice) (Diced Assorted fish egg)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Native Rice (Basmati Rice) (Diced Assorted fish egg)",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Native Rice (Basmati Rice) (Diced Assorted fish egg)",
+    "Size": "10L",
+    "Price": 135000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice",
+    "Size": "3.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Jambayala Rice (Diced Beef Diced fried plantain)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Jambayala Rice (Diced Beef Diced fried plantain)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Jambayala Rice (Diced Beef Diced fried plantain)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Jambayala Rice (Diced Beef Diced fried plantain)",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Jambayala Rice (Diced Beef Diced fried plantain)",
+    "Size": "10L",
+    "Price": 130000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Jollof Rice",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Jollof Rice",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Jollof Rice",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Jollof Rice",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Jollof Rice",
+    "Size": "10L",
+    "Price": 135000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Nigeria Fried Rice",
+    "Size": "2.5L",
+    "Price": 30000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Nigeria Fried Rice",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Nigeria Fried Rice",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Nigeria Fried Rice",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Nigeria Fried Rice",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Fried Rice",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Fried Rice",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Fried Rice",
+    "Size": "5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Fried Rice",
+    "Size": "7.5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Asun Fried Rice",
+    "Size": "10L",
+    "Price": 135000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed short grain Rice",
+    "Size": "2.5L",
+    "Price": 15000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed short grain Rice",
+    "Size": "3.5L",
+    "Price": 25000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed short grain Rice",
+    "Size": "5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed short grain Rice",
+    "Size": "7.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed short grain Rice",
+    "Size": "10L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed Ofada Rice",
+    "Size": "2.5L",
+    "Price": 15000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed Ofada Rice",
+    "Size": "3.5L",
+    "Price": 25000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed Ofada Rice",
+    "Size": "5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed Ofada Rice",
+    "Size": "7.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed Ofada Rice",
+    "Size": "10L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Delta Banga Rice (Diced Assorted Pack)",
+    "Size": "2.5L",
+    "Price": 28500
+  },
+  {
+    "Category": "Rice",
+    "Item": "Delta Banga Rice (Diced Assorted Pack)",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Delta Banga Rice (Diced Assorted Pack)",
+    "Size": "5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Delta Banga Rice (Diced Assorted Pack)",
+    "Size": "7.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Delta Banga Rice (Diced Assorted Pack)",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed white Basmati Rice",
+    "Size": "2.5L",
+    "Price": 18000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed white Basmati Rice",
+    "Size": 3.5,
+    "Price": 27000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed white Basmati Rice",
+    "Size": "5L",
+    "Price": 37000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed white Basmati Rice",
+    "Size": "7.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Steamed white Basmati Rice",
+    "Size": "10L",
+    "Price": 77000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice with prawns",
+    "Size": "2.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice with prawns",
+    "Size": "3.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice with prawns",
+    "Size": "5L",
+    "Price": 85000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice with prawns",
+    "Size": "7.5L",
+    "Price": 100000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Fried Rice with prawns",
+    "Size": "10L",
+    "Price": 140000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof with prawns/Fish and Snail",
+    "Size": "2.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof with prawns/Fish and Snail",
+    "Size": "3.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof with prawns/Fish and Snail",
+    "Size": "5L",
+    "Price": 95000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof with prawns/Fish and Snail",
+    "Size": "7.5L",
+    "Price": 75000
+  },
+  {
+    "Category": "Rice",
+    "Item": "Basmati Jollof with prawns/Fish and Snail",
+    "Size": "10L",
+    "Price": 170000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One turkey",
+    "Size": "",
+    "Price": 5000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One chicken",
+    "Size": "",
+    "Price": 4000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Hake Fish",
+    "Size": "",
+    "Price": 3500
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Snail",
+    "Size": "",
+    "Price": 4500
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Chicken wing",
+    "Size": "",
+    "Price": 2500
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Beef",
+    "Size": "",
+    "Price": 2000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Litus Fish",
+    "Size": "",
+    "Price": 3500
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Assorted",
+    "Size": "",
+    "Price": 2000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One Croaker Fish",
+    "Size": "",
+    "Price": 4000
+  },
+  {
+    "Category": "Protein",
+    "Item": "One egg",
+    "Size": "",
+    "Price": 1000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (Life Chicken Pepper Soup)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (Life Chicken Pepper Soup)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (Life Chicken Pepper Soup)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (Life Chicken Pepper Soup)",
+    "Size": "7.5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (Life Chicken Pepper Soup)",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (goat meat and Assorted)",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (goat meat and Assorted)",
+    "Size": "3.5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (goat meat and Assorted)",
+    "Size": "5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (goat meat and Assorted)",
+    "Size": "7.5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Others",
+    "Item": "Pepper Soup (goat meat and Assorted)",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "Cat fish Pepper Soup",
+    "Size": "2.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Cat fish Pepper Soup",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Cat fish Pepper Soup",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Others",
+    "Item": "Cat fish Pepper Soup",
+    "Size": "7.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Others",
+    "Item": "Cat fish Pepper Soup",
+    "Size": "10L",
+    "Price": 80000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun Spag",
+    "Size": "2.5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun Spag",
+    "Size": "3.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun Spag",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun Spag",
+    "Size": "7.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun Spag",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "Jollof Spag",
+    "Size": "2.5L",
+    "Price": 30000
+  },
+  {
+    "Category": "Others",
+    "Item": "Jollof Spag",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Jollof Spag",
+    "Size": "5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Others",
+    "Item": "Jollof Spag",
+    "Size": "7.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Others",
+    "Item": "Jollof Spag",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "Prom-prom jollof matching group",
+    "Size": "2.5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Others",
+    "Item": "Prom-prom jollof matching group",
+    "Size": "3.5L",
+    "Price": 45000
+  },
+  {
+    "Category": "Others",
+    "Item": "Prom-prom jollof matching group",
+    "Size": "5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Others",
+    "Item": "Prom-prom jollof matching group",
+    "Size": "7.5L",
+    "Price": 65000
+  },
+  {
+    "Category": "Others",
+    "Item": "Prom-prom jollof matching group",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "10 pieces of moi-moi",
+    "Size": "",
+    "Price": 20000
+  },
+  {
+    "Category": "Others",
+    "Item": "Yam porridge",
+    "Size": "2.5L",
+    "Price": 28000
+  },
+  {
+    "Category": "Others",
+    "Item": "Yam porridge",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Yam porridge",
+    "Size": "5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Others",
+    "Item": "Yam porridge",
+    "Size": "7.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Others",
+    "Item": "Yam porridge",
+    "Size": "10L",
+    "Price": 100000
+  },
+  {
+    "Category": "Others",
+    "Item": "Boiled Yam/Boil Plantain",
+    "Size": "2.5L",
+    "Price": 15000
+  },
+  {
+    "Category": "Others",
+    "Item": "Boiled Yam/Boil Plantain",
+    "Size": "3.5L",
+    "Price": 20000
+  },
+  {
+    "Category": "Others",
+    "Item": "Boiled Yam/Boil Plantain",
+    "Size": "5L",
+    "Price": 30000
+  },
+  {
+    "Category": "Others",
+    "Item": "Boiled Yam/Boil Plantain",
+    "Size": "7.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Sweet potato porridge",
+    "Size": "2.5L",
+    "Price": 25000
+  },
+  {
+    "Category": "Others",
+    "Item": "Sweet potato porridge",
+    "Size": "3.5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Others",
+    "Item": "Sweet potato porridge",
+    "Size": "5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Sweet potato porridge",
+    "Size": "7.5L",
+    "Price": 55000
+  },
+  {
+    "Category": "Others",
+    "Item": "Sweet potato porridge",
+    "Size": "10L",
+    "Price": 80000
+  },
+  {
+    "Category": "Others",
+    "Item": "Nkwobi",
+    "Size": "2.5L",
+    "Price": 33000
+  },
+  {
+    "Category": "Others",
+    "Item": "Nkwobi",
+    "Size": "3.5L",
+    "Price": 43000
+  },
+  {
+    "Category": "Others",
+    "Item": "Nkwobi",
+    "Size": "5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Others",
+    "Item": "Nkwobi",
+    "Size": "7.5L",
+    "Price": 70000
+  },
+  {
+    "Category": "Others",
+    "Item": "Nkwobi",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun",
+    "Size": "2.5L",
+    "Price": 48000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun",
+    "Size": "3.5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun",
+    "Size": "5L",
+    "Price": 68000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun",
+    "Size": "7.5L",
+    "Price": 80000
+  },
+  {
+    "Category": "Others",
+    "Item": "Asun",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Others",
+    "Item": "Isi Ewu",
+    "Size": "2.5L",
+    "Price": 35000
+  },
+  {
+    "Category": "Others",
+    "Item": "Isi Ewu",
+    "Size": "3.5L",
+    "Price": 48000
+  },
+  {
+    "Category": "Others",
+    "Item": "Isi Ewu",
+    "Size": "5L",
+    "Price": 58000
+  },
+  {
+    "Category": "Others",
+    "Item": "Isi Ewu",
+    "Size": "7.5L",
+    "Price": 68000
+  },
+  {
+    "Category": "Others",
+    "Item": "Isi Ewu",
+    "Size": "10L",
+    "Price": 120000
+  },
+  {
+    "Category": "Others",
+    "Item": "Porridge Beans infused with Smoked Fish",
+    "Size": "2.5L",
+    "Price": 30000
+  },
+  {
+    "Category": "Others",
+    "Item": "Porridge Beans infused with Smoked Fish",
+    "Size": "3.5L",
+    "Price": 40000
+  },
+  {
+    "Category": "Others",
+    "Item": "Porridge Beans infused with Smoked Fish",
+    "Size": "5L",
+    "Price": 50000
+  },
+  {
+    "Category": "Others",
+    "Item": "Porridge Beans infused with Smoked Fish",
+    "Size": "7.5L",
+    "Price": 60000
+  },
+  {
+    "Category": "Others",
+    "Item": "Porridge Beans infused with Smoked Fish",
+    "Size": "10L",
+    "Price": 100000
+  }
+]
